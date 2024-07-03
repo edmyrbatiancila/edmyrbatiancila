@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Figma advanced website designing, and other tools used in Front-End<br>- 🔭 I’m currently working on Food E-commerce website<br>- Fun fact: I love cats and playing drums! 😻🥁</p>
+<p align="left">- 🌱 I’m currently learning Java and Scala Programming language.<br>- 🔭 I’m currently working on Food E-commerce website<br>- Fun fact: I love cats and playing drums! 😻🥁</p>
 
 ###
 
