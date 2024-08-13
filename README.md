@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Java and Scala Programming language.<br>- 🔭 I’m currently working on Food E-commerce website<br>- Fun fact: I love cats and playing drums! 😻🥁</p>
+<p align="left">- 🌱 I’m currently learning Scala Programming language, Play Framework, Twirl, and Java.<br>- 🔭 I’m currently working on Food E-commerce website<br>- Fun fact: I love cats and playing drums! 😻🥁</p>
 
 ###
 
