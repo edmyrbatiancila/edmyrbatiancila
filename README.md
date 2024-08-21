@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Scala Programming language, Play Framework, Twirl, and Java.<br>-  Fun fact: I love cats and playing drums! 😻🥁</p>
+<p align="left">- 🌱 I’m currently learning Scala Programming language, Play Framework, Twirl, and PostgreSQL.<br>-  Fun fact: I love cats and playing drums! 😻🥁</p>
 
 ###
 
