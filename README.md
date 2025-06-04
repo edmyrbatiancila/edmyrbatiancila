@@ -12,18 +12,14 @@
 
 ## 👨‍💻 Tech Stack
 
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 12px; vertical-align: middle;"/>
-</span>
+[![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
----
 
 ## 💼 Projects
 
@@ -33,7 +29,18 @@
 
 ## 🔭 About Me
 
-I love to explore new things and dig deep into technologies. With a strong passion for developing websites, I aspire to become a Full Stack Developer and achieve financial success.
+👨‍💻 I'm a passionate developer focused on building **robust** and **scalable** solutions with modern tech.  
+🎨 My expertise covers **Laravel, ReactJS, TailwindCSS, HTML, CSS, JavaScript, and PHP**—with a special love for frontend wizardry!
+
+🚀 I thrive on solving complex problems, picking up new tools and frameworks, and contributing to open source projects (especially those powering my current company).
+
+🤝 Collaboration and clean code are at the heart of my workflow, whether I'm coding solo or teaming up.  
+🔄 I believe in continuous improvement and sharing knowledge to make a real impact in every project I take on.
+
+🧑‍💻 While frontend is my playground, I'm leveling up my backend game to become a well-rounded developer!
+
+♥ I love to explore new things and dig deep into technologies. With a strong passion for developing websites, I aspire to become a Full Stack Developer and achieve financial success.
+
 
 ---
 
@@ -42,6 +49,8 @@ I love to explore new things and dig deep into technologies. With a strong passi
 - [LinkedIn](https://www.linkedin.com/in/edmyr-batiancila/)
 - [YouTube](https://www.youtube.com/@edmyrbatiancila5469)
 - [Portfolio Website](https://portfolio-edmyr.netlify.app/)
+
+🌱 Always learning & always building. Let's connect and create something awesome together!
 
 ---
 
