@@ -25,6 +25,7 @@
 
 - [Money Button Games (ReactJS Version)](https://github.com/edmyrbatiancila/Money_Button_Game_ReactJS_Version)
 - [CRM-Lite Client & Leads Management System (Laravel + InertiaJS)](https://github.com/edmyrbatiancila/crm-lite)
+- [InvenTrack - Advanced Inventory Tracking System(Laravel + InertiaJS)](https://github.com/edmyrbatiancila/inventory-management)
 
 ---
 
